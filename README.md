@@ -17,9 +17,9 @@ This repo is my way of tracking that progress in a transparent and structured wa
 
 ## Repository Structure
 This repository will grow over time and may include:
-- `/exercises` — small focused learning tasks
-- `/services` — complete backend prototypes
-- `/notes` — architecture notes and insights
+- `exercises` — small focused learning tasks
+- `services` — complete backend prototypes
+- `notes` — architecture notes and insights
 
 
 ## Technologies
