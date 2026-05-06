@@ -15,6 +15,13 @@ It contains everything I build, explore and learn along the way — from small e
 I want to grow into a strong backend developer with a solid understanding of architecture, structure and maintainability.  
 This repo is my way of tracking that progress in a transparent and structured way.
 
+## Repository Structure
+This repository will grow over time and may include:
+- `/exercises` — small focused learning tasks
+- `/services` — complete backend prototypes
+- `/notes` — architecture notes and insights
+
+
 ## Technologies
 - C# 12 / .NET 8
 - EF Core
